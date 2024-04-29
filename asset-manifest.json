@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kavinduUdhara/learn-react/static/css/main.f855e6bc.css",
+    "main.js": "/kavinduUdhara/learn-react/static/js/main.be018e6f.js",
+    "static/js/453.86b2f617.chunk.js": "/kavinduUdhara/learn-react/static/js/453.86b2f617.chunk.js",
+    "static/media/logo.svg": "/kavinduUdhara/learn-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kavinduUdhara/learn-react/index.html",
+    "main.f855e6bc.css.map": "/kavinduUdhara/learn-react/static/css/main.f855e6bc.css.map",
+    "main.be018e6f.js.map": "/kavinduUdhara/learn-react/static/js/main.be018e6f.js.map",
+    "453.86b2f617.chunk.js.map": "/kavinduUdhara/learn-react/static/js/453.86b2f617.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.be018e6f.js"
+  ]
+}
